@@ -31,9 +31,8 @@ I'm senior programmer with some skill, I'm playing with programming language for
 ---
 ### Latest Blog
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[website]: https://jumadilabdulrahmanselian.com
+[twitter]: https://twitter.com/jum_a_dil
+[youtube]: https://www.youtube.com/channel/UC0OmjKjq8OTk7QLOI1Ri3iw
+[instagram]: https://instagram.com/jumadil_selian
+[linkedin]: https://linkedin.com/in/jumadil-abdul-rahman-selian

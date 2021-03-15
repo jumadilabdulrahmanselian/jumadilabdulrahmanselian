@@ -45,7 +45,7 @@ I'm senior programmer with some skill, I'm playing with programming language for
 - [Cara Menginstall Pulsestone Di HG-680-P Dan Root Secara Mudah](https://blog.alimstudio.com/2020/10/cara-menginstall-pulsestone-di-hg-680-p.html)
 <!-- BLOG-POST-LIST:END -->
 
-➡️ [more blog posts...](https://codestackr.com)
+➡️ [more blog posts...](https://blog.alimstudio.com)
 
 ---
 

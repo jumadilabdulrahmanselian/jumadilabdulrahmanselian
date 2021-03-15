@@ -21,4 +21,4 @@ I'm senior programmer with some skill, I'm playing with programming language for
 
 <br />
 ---
-### 📕 Latest Blog
+### Latest Blog

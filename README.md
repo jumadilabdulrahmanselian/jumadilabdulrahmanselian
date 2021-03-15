@@ -40,11 +40,9 @@ I'm senior programmer with some skill, I'm playing with programming language for
 ---
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
+- [Cara Install React JS Bagi Pemulai](https://blog.alimstudio.com/2021/02/cara-install-react-js-bagi-pemulai.html)
+- [Cara Setting Mikrotik Dan Aapanel Di Server Kita Agar Dapat Di Akses Secara Publik](https://blog.alimstudio.com/2020/10/cara-setting-mikrotik-dan-aapanel-di.html)
+- [Cara Menginstall Pulsestone Di HG-680-P Dan Root Secara Mudah](https://blog.alimstudio.com/2020/10/cara-menginstall-pulsestone-di-hg-680-p.html)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://codestackr.com)

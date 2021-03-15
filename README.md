@@ -12,4 +12,4 @@ I'm senior programmer with some skill, I'm playing with programming language for
 
 
 ### Connect with me :
-[<img align="left" alt="Jumadil Abdul Rahman Selian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+<img align="left" alt="Jumadil Abdul Rahman Selian" width="22px" src="https://jumadilabdulrahmanselian.com" />

@@ -13,3 +13,7 @@ I'm senior programmer with some skill, I'm playing with programming language for
 
 ### Connect with me :
 <a href="https://jumadilabdulrahmanselian.com"><img align="left" alt="Jumadil Abdul Rahman Selian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://jumadilabdulrahmanselian.com"><img align="left" alt="Jumadil Abdul Rahman Selian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://jumadilabdulrahmanselian.com"><img align="left" alt="Jumadil Abdul Rahman Selian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://jumadilabdulrahmanselian.com"><img align="left" alt="Jumadil Abdul Rahman Selian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>
+<a href="https://jumadilabdulrahmanselian.com"><img align="left" alt="Jumadil Abdul Rahman Selian" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" /></a>

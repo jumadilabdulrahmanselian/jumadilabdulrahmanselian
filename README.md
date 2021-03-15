@@ -69,7 +69,7 @@ I'm senior programmer with some skill, I'm playing with programming language for
 [instagram]: https://instagram.com/jumadil_selian
 [linkedin]: https://linkedin.com/in/jumadil-abdul-rahman-selian
 [alimstudio]: https://alimstudio.com
-[telegram]: https://telegram.com
+[telegram]: https://t.me/joinchat/TegXqNOF_0u-E5yz
 
 [webdevplaylist]: https://youtube.com
 [cssplaylist]: https://youtube.com

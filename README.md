@@ -8,8 +8,8 @@ I'm senior programmer with some skill, I'm playing with programming language for
 - 🔭 I'm currently work at Adhijasa and Prima Solusi Company
 - 🌱 I'm currently learning ReactJS in Advance
 - 💬 Ask me about anything related to PHP, Javascript, Css, C#, or Some Skill about Self Developing
-- 📫 Visit me at my own studio, <a href="https://alimstudio.com" target="_blank">Alimstudio</a>
-- 👯 Join me at my Telegram <a href="https://telegram.com" target="_blank">Telegram</a>
+- 📫 Visit me at my own studio, [Alimstudio][alimstudio]
+- 👯 Join me at my Telegram [Telegram][telegram]
 - 🥅 2021 Goals : Building Start Up
 - ⚡ Fun Fact : I love a programming
 
@@ -36,3 +36,5 @@ I'm senior programmer with some skill, I'm playing with programming language for
 [youtube]: https://www.youtube.com/channel/UC0OmjKjq8OTk7QLOI1Ri3iw
 [instagram]: https://instagram.com/jumadil_selian
 [linkedin]: https://linkedin.com/in/jumadil-abdul-rahman-selian
+[alimstudio]: https://alimstudio.com
+[telegram]: https://telegram.com

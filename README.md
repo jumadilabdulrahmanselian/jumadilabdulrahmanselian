@@ -57,7 +57,7 @@ I'm senior programmer with some skill, I'm playing with programming language for
 - [Video Perkenalan Alimstudio](https://www.youtube.com/watch?v=JOy_aCPQOJc)
 <!-- YOUTUBE:END -->
 
-➡️ [more videos...](https://youtube.com/codestackr)
+➡️ [more videos...](https://www.youtube.com/channel/UC0OmjKjq8OTk7QLOI1Ri3iw)
 
 [website]: https://jumadilabdulrahmanselian.com
 [twitter]: https://twitter.com/jum_a_dil

@@ -52,11 +52,9 @@ I'm senior programmer with some skill, I'm playing with programming language for
 #### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
-- [Top VS Code Updates | v1.54 Released!! | Tips & Tricks 2021 (Visual Studio Code)](https://www.youtube.com/watch?v=Qj6Jya9APiU)
-- [[#9] 🤯 42 Amazing Web Dev Videos! #WomensHistoryMonth (STACKr News 2021, Issue #9)](https://www.youtube.com/watch?v=OSLyP8L0s_k)
-- [Brackets is Dead | Switch to VS Code (Visual Studio Code Setup 2021)](https://www.youtube.com/watch?v=MQxLbUX5BFA)
-- [[#8] Don't MISS These Amazing Web Dev Videos! (STACKr News 2021, Issue #8)](https://www.youtube.com/watch?v=tSSzfT5Txv8)
-- [How To Write Clean Code! | JavaScript Pro Tips (2021)](https://www.youtube.com/watch?v=ZI3q-_vjSZE)
+- [#theme1 Download Template Mikrotik Responsive Alimstudio](https://www.youtube.com/watch?v=yv-NFQlr5cI)
+- [Cara Mengubah IP Public Pada Mikrotik Secara Otomatis](https://www.youtube.com/watch?v=pri3Xy5lJDE)
+- [Video Perkenalan Alimstudio](https://www.youtube.com/watch?v=JOy_aCPQOJc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://youtube.com/codestackr)

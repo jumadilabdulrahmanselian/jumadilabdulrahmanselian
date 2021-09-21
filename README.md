@@ -55,7 +55,6 @@ I'm senior programmer with some skill, I'm playing with programming language for
 <!-- YOUTUBE:START -->
 - [#theme1 Download Template Mikrotik Responsive Alimstudio](https://www.youtube.com/watch?v=yv-NFQlr5cI)
 - [Cara Mengubah IP Public Pada Mikrotik Secara Otomatis](https://www.youtube.com/watch?v=pri3Xy5lJDE)
-- [Video Perkenalan Alimstudio](https://www.youtube.com/watch?v=JOy_aCPQOJc)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC0OmjKjq8OTk7QLOI1Ri3iw)

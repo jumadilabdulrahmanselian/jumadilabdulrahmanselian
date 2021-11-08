@@ -40,7 +40,7 @@ I'm senior programmer with some skill, I'm playing with programming language for
 ---
 #### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Cara Mengatur Lebar Kolom Tabel (Table Column) Pada Datatable - Part II](https://blog.alimstudio.com/2021/03/cara-mengatur-lebar-kolom-tabel-table.html)
+- [Cara Mengatur Lebar Kolom Tabel &lpar;Table Column&rpar; Pada Datatable - Part II](https://blog.alimstudio.com/2021/03/cara-mengatur-lebar-kolom-tabel-table.html)
 - [Cara Install React JS Bagi Pemulai](https://blog.alimstudio.com/2021/02/cara-install-react-js-bagi-pemulai.html)
 - [Cara Setting Mikrotik Dan Aapanel Di Server Kita Agar Dapat Di Akses Secara Publik](https://blog.alimstudio.com/2020/10/cara-setting-mikrotik-dan-aapanel-di.html)
 - [Cara Menginstall Pulsestone Di HG-680-P Dan Root Secara Mudah](https://blog.alimstudio.com/2020/10/cara-menginstall-pulsestone-di-hg-680-p.html)
